@@ -170,13 +170,13 @@ i) Using Averaging Filter
 ![git](./op1.png)
 </br>
 
-![git](./op2.png)</br>
+![git](./op2.png)
 
 
 ii) Using Weighted Averaging Filter
 </br>
 
-![git](./op3.png)</br>
+![git](./op3.png)
 
 ![git](./op4.png)</br>
 
@@ -184,7 +184,7 @@ ii) Using Weighted Averaging Filter
 iii) Using Gaussian Filter
 </br>
 
-![git](./op5.png)</br>
+![git](./op5.png)
 
 ![git](./op6.png)</br>
 
@@ -192,7 +192,7 @@ iii) Using Gaussian Filter
 iv) Using Median Filter
 </br>
 
-![git](./op7.png)</br>
+![git](./op7.png)
 
 ![git](./op8.png)</br>
 
@@ -203,7 +203,7 @@ iv) Using Median Filter
 i) Using Laplacian Kernal
 </br>
 
-![git](./op9.png)</br>
+![git](./op9.png)
 
 ![git](./op10.png)</br>
 
@@ -211,7 +211,7 @@ i) Using Laplacian Kernal
 ii) Using Laplacian Operator
 </br>
 
-![git](./op11.png)</br>
+![git](./op11.png)
 
 ![git](./op12.png)</br>
 
