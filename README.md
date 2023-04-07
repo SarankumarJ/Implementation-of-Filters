@@ -166,29 +166,36 @@ plt.axis('off')
 
 i) Using Averaging Filter
 ![git](./op1.png)
+</br>
+
 ![git](./op2.png)
 
 ii) Using Weighted Averaging Filter
-![git](./op3.png)
+![git](./op3.png)</br>
+
 ![git](./op4.png)
 
 iii) Using Gaussian Filter
-![git](./op5.png)
+![git](./op5.png)</br>
+
 ![git](./op6.png)
 
 iv) Using Median Filter
-![git](./op7.png)
+![git](./op7.png)</br>
+
 ![git](./op8.png)
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
-![git](./op9.png)
+![git](./op9.png)</br>
+
 ![git](./op10.png)
 
 ii) Using Laplacian Operator
-![git](./op11.png)
+![git](./op11.png)</br>
+
 ![git](./op12.png)
 
 ## Result:
