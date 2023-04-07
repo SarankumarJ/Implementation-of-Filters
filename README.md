@@ -168,22 +168,26 @@ i) Using Averaging Filter
 ![git](./op1.png)
 </br>
 
-![git](./op2.png)
+![git](./op2.png)</br>
+
 
 ii) Using Weighted Averaging Filter
 ![git](./op3.png)</br>
 
-![git](./op4.png)
+![git](./op4.png)</br>
+
 
 iii) Using Gaussian Filter
 ![git](./op5.png)</br>
 
-![git](./op6.png)
+![git](./op6.png)</br>
+
 
 iv) Using Median Filter
 ![git](./op7.png)</br>
 
-![git](./op8.png)
+![git](./op8.png)</br>
+
 
 ### 2. Sharpening Filters
 </br>
