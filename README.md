@@ -165,6 +165,8 @@ plt.axis('off')
 </br>
 
 i) Using Averaging Filter
+</br>
+
 ![git](./op1.png)
 </br>
 
@@ -172,18 +174,24 @@ i) Using Averaging Filter
 
 
 ii) Using Weighted Averaging Filter
+</br>
+
 ![git](./op3.png)</br>
 
 ![git](./op4.png)</br>
 
 
 iii) Using Gaussian Filter
+</br>
+
 ![git](./op5.png)</br>
 
 ![git](./op6.png)</br>
 
 
 iv) Using Median Filter
+</br>
+
 ![git](./op7.png)</br>
 
 ![git](./op8.png)</br>
@@ -193,14 +201,20 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+</br>
+
 ![git](./op9.png)</br>
 
-![git](./op10.png)
+![git](./op10.png)</br>
+
 
 ii) Using Laplacian Operator
+</br>
+
 ![git](./op11.png)</br>
 
-![git](./op12.png)
+![git](./op12.png)</br>
+
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
